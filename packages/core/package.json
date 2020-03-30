@@ -1,0 +1,35 @@
+{
+  "name": "@example/core",
+  "version": "0.0.0",
+  "description": "Core",
+  "keywords": [
+    "Core"
+  ],
+  "author": {
+    "name": "LongYinan",
+    "email": "lynweklm@gmail.com",
+    "url": "https://lynvv.xyz"
+  },
+  "homepage": "https://github.com/Brooooooklyn/typescript-monorepo",
+  "license": "MIT",
+  "main": "dist/index.cjs.js",
+  "module": "dist/index.esm.js",
+  "esnext": "dist/index.next.js",
+  "types": "esm/index.d.ts",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
+  "sideEffects": false,
+  "files": [
+    "dist",
+    "esm"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brooooooklyn/typescript-monorepo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Brooooooklyn/typescript-monorepo/issues"
+  }
+}

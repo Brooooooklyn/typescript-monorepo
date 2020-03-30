@@ -1,0 +1,10 @@
+{
+  "extends": "../tsconfig.json",
+  "references": [
+    { "path": "../packages/core/tsconfig.next.json" },
+    { "path": "../packages/cli/tsconfig.next.json" }
+  ],
+  "compilerOptions": {
+    "noEmit": true
+  }
+}
