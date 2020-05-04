@@ -43,7 +43,7 @@
     "shx": "^0.3.2",
     "source-map-support": "^0.5.19",
     "ts-loader": "^7.0.2",
-    "ts-node": "^8.9.1",
+    "ts-node": "^8.10.1",
     "tsconfig-paths": "^3.9.0",
     "typescript": "^3.8.3"
   },
