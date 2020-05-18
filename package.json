@@ -21,7 +21,7 @@
     "@typescript-eslint/eslint-plugin": "^2.33.0",
     "@typescript-eslint/parser": "^2.33.0",
     "ava": "^3.8.2",
-    "codecov": "^3.6.5",
+    "codecov": "^3.7.0",
     "commitlint": "^8.3.5",
     "cross-env": "^7.0.2",
     "eslint": "^6.8.0",
