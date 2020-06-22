@@ -14,7 +14,7 @@
     "packages/*"
   ],
   "devDependencies": {
-    "@commitlint/config-conventional": "^8.3.4",
+    "@commitlint/config-conventional": "^9.0.1",
     "@istanbuljs/nyc-config-typescript": "^1.0.1",
     "@rollup/plugin-node-resolve": "^8.0.1",
     "@types/node": "^14.0.13",
