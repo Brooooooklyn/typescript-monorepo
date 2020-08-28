@@ -2,9 +2,7 @@
   "name": "@example/core",
   "version": "0.0.0",
   "description": "Core",
-  "keywords": [
-    "Core"
-  ],
+  "keywords": ["Core"],
   "author": {
     "name": "LongYinan",
     "email": "lynweklm@gmail.com",
@@ -21,10 +19,7 @@
     "access": "public"
   },
   "sideEffects": false,
-  "files": [
-    "dist",
-    "esm"
-  ],
+  "files": ["dist", "esm"],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Brooooooklyn/typescript-monorepo.git"

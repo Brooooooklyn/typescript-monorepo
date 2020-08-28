@@ -24,25 +24,11 @@
     "esModuleInterop": true,
     "stripInternal": true,
     "importsNotUsedAsValues": "remove",
-    "lib": [
-      "dom",
-      "ES5",
-      "ES2015",
-      "ES2016",
-      "ES2017",
-      "ES2018",
-      "ES2019",
-      "ES2020",
-      "esnext"
-    ],
+    "lib": ["dom", "ES5", "ES2015", "ES2016", "ES2017", "ES2018", "ES2019", "ES2020", "esnext"],
     "baseUrl": "./packages",
     "paths": {
-      "@demo/*": [
-        "./*/src/index.ts"
-      ]
+      "@demo/*": ["./*/src/index.ts"]
     }
   },
-  "exclude": [
-    "node_modules"
-  ]
+  "exclude": ["node_modules"]
 }

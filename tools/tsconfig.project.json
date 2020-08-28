@@ -1,9 +1,6 @@
 {
   "extends": "../tsconfig.json",
-  "references": [
-    { "path": "../packages/core" },
-    { "path": "../packages/cli" }
-  ],
+  "references": [{ "path": "../packages/core" }, { "path": "../packages/cli" }],
   "compilerOptions": {
     "noEmit": true
   }
