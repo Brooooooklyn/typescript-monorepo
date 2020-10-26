@@ -39,7 +39,7 @@
     "prettier": "^2.1.2",
     "rollup": "^2.32.1",
     "rollup-plugin-sourcemaps": "^0.6.3",
-    "shx": "^0.3.2",
+    "shx": "^0.3.3",
     "source-map-support": "^0.5.19",
     "ts-loader": "^8.0.6",
     "tsconfig-paths": "^3.9.0",
