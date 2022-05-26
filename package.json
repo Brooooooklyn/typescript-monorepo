@@ -24,7 +24,7 @@
     "commitlint": "^12.0.1",
     "cross-env": "^7.0.3",
     "eslint": "^7.32.0",
-    "eslint-config-prettier": "^8.1.0",
+    "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-prettier": "^3.3.1",
     "eslint-plugin-react": "^7.22.0",
@@ -42,8 +42,8 @@
     "shx": "^0.3.3",
     "source-map-support": "^0.5.19",
     "ts-loader": "^8.0.10",
-    "tsconfig-paths": "^3.9.0",
-    "typescript": "^4.2.3"
+    "tsconfig-paths": "^4.0.0",
+    "typescript": "^4.7.2"
   },
   "lint-staged": {
     "*.@(js|ts|tsx)": ["prettier --write", "eslint -c .eslintrc.yml --fix"],
